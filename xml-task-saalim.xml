@@ -18,14 +18,14 @@
         <family:contact>salmansiddique894@gmail.com</family:contact>
     </family:member>
 
- <family:member>
+    <family:member>
         <family:name>Usaid Khan</family:name>
         <family:age>20</family:age>
         <family:relation>Cousin</family:relation>
         <family:contact>usaidkhan35@gmail.com</family:contact>
     </family:member>
 
-     <family:member>
+    <family:member>
         <family:name>Khubaib Khan</family:name>
         <family:age>03</family:age>
         <family:relation>Nephew</family:relation>
@@ -39,36 +39,36 @@
         <family:contact>musfirahnabee472@gmail.com</family:contact>
     </family:member>
 
-        <!-- Friends -->
-     <friends:friend>
+    <!-- Friends -->
+    <friends:friend>
         <friends:name>Qasim Qureshi</friends:name>
         <friends:age>18</friends:age>
         <friends:relation>Classmate</friends:relation>
         <friends:contact>qasimqureshi97@gmail.com</friends:contact>
     </friends:friend>
 
-     <friends:friend>
+    <friends:friend>
         <friends:name>Maaz Khan</friends:name>
         <friends:age>21</friends:age>
         <friends:relation>Childhood Friend</friends:relation>
         <friends:contact>maazkhan07@gmail.com</friends:contact>
     </friends:friend>
 
-     <friends:friend>
+    <friends:friend>
         <friends:name>Ahmed Shah</friends:name>
         <friends:age>15</friends:age>
         <friends:relation>Online Friend</friends:relation>
         <friends:contact>ahmedshah27@gmail.com</friends:contact>
     </friends:friend>
 
-     <friends:friend>
+    <friends:friend>
         <friends:name>Hamza Khan</friends:name>
         <friends:age>22</friends:age>
         <friends:relation>Travel Companion</friends:relation>
         <friends:contact>qasimqureshi97@gmail.com</friends:contact>
     </friends:friend>
 
-     <friends:friend>
+    <friends:friend>
         <friends:name>Nabeel Khan</friends:name>
         <friends:age>26</friends:age>
         <friends:relation>Sports Buddy</friends:relation>
@@ -83,28 +83,28 @@
         <work:contact>shoaibafridi06@gmail.com</work:contact>
     </work:colleague>
 
-     <work:colleague>
+    <work:colleague>
         <work:name>Sajeel Khan</work:name>
         <work:age>24</work:age>
         <work:relation>Team Leader</work:relation>
         <work:contact>sajeelkhan83@gmail.com</work:contact>
     </work:colleague>
 
-     <work:colleague>
+    <work:colleague>
         <work:name>Haziq Malik</work:name>
         <work:age>32</work:age>
         <work:relation>Software Engineer</work:relation>
         <work:contact>haziqmalik49@gmail.com</work:contact>
     </work:colleague>
 
-     <work:colleague>
+    <work:colleague>
         <work:name>Adeel Khan</work:name>
         <work:age>28</work:age>
         <work:relation>Data Analyst</work:relation>
         <work:contact>adeelkhan135@gmail.com</work:contact>
     </work:colleague>
 
-     <work:colleague>
+    <work:colleague>
         <work:name>Zohan Shah</work:name>
         <work:age>35</work:age>
         <work:relation>UX Designer</work:relation>
